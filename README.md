@@ -37,7 +37,7 @@ The article tag can be used to encapsulate an interactive widget or gadget.
 
 ## Author
 
-- Linkedim - [Abilio Assis](https://www.linkedin.com/in/abilio-assis/)
+- LinkedIn - [Abilio Assis](https://www.linkedin.com/in/abilio-assis/)
 - Frontend Mentor - [@abilioassis](https://www.frontendmentor.io/profile/abilioassis)
 
 

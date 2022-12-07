@@ -1,0 +1,56 @@
+:root {
+  /* Global variables */
+  --bg-color: #D5E1EF;
+  --bg-color-component: white;
+  --h1-color: #1F314F;
+  --p-color: #7D889E;
+  --component-w: 320px;
+  --component-h: 497px;
+}
+
+* {
+  /* Global reset */
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+}
+
+.container {
+  background: var(--bg-color);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.component {
+  width: var(--component-w);
+  height: var(--component-h);
+  background: white;
+  padding: 16px;
+  border-radius: 20px;
+}
+
+.component h1 {
+  font-size: 22px;
+  color: var(--h1-color);
+  margin-top: 16px;
+}
+
+.component p {
+  font-size: 15px;
+  color: var(--p-color);
+  margin: 16px;
+  
+}
+.component img {
+  width: 100%;
+  border-radius: 20px;
+}

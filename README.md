@@ -31,6 +31,13 @@ The article tag can be used to encapsulate an interactive widget or gadget.
 </article>
 ```
 
+I can use classes with the body tag.
+
+```html
+<body class="container">
+    <!-- Code goes here -->
+</body>
+```
 ### Useful resources
 
 - [The Article Contents element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article) - This helped me make sure I could use the semantic article tag when writing the QR code component.
